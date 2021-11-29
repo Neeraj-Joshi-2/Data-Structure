@@ -48,7 +48,7 @@ void deleteList()
 
 	head = NULL;
 }
-
+ 
 int main()
 {
 	head = NULL ;
