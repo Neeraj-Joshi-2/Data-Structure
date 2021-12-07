@@ -18,7 +18,7 @@ void push(int new_data)
 	new_node->data = new_data;
 	new_node->next = head;
 	head = new_node;
-}
+} 
 
 void printList(Node *node)
 {
