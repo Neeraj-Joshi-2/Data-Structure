@@ -20,7 +20,7 @@ void append(int new_data)
 	if (head == NULL)
 	{
 		head = new_node;
-		return;
+		return; 
 	}
 
 	while (last->next != NULL)
